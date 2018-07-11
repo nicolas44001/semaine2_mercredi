@@ -1,0 +1,4 @@
+source  "https://rubygems.org/specs.4.8.gz"
+ruby '2.5.1'
+ruby '2.5.1'
+gem 'dotenv', '~> 2.5.0'
